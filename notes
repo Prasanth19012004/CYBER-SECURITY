@@ -1,0 +1,104 @@
+network vulnerability
+hascat tool - bruteforce  it is used for password cracking tool, attacks RAT(remote access troject)
+securing resource, safegaurding one type is physical control , logical control and the third one is administrative control  
+port scanning 
+protocol means set of rules like tcp and udp in networks 65535 tcp ports 65535 udp ports are there. tcp is maximum usable one by using these ports all the ones are communicate.
+tcp
+the browser https is work on 443 port
+  http is work on 80th port wich is unsafe.
+  diff b/w http and https
+block chain
+block chain security  
+exploit
+sql injection
+session
+ession hyjack
+physing
+DNS poisioning
+ip address
+cloud
+cryptography
+arp poisioning
+sopffing
+hashing
+metasploit tool
+backdoor
+what hacking
+gaining unauthorized access
+what ethical hacking
+gaining unauthorized access with return permission
+
+  website,webpage,webserver,webapplication
+  webapplication = where user use the web called webapplication
+collection of web called website
+
+two fields 
+affense and defense called red and blue team.both mingled is called purple team.
+defense is a soc analysist.
+three types of hackers 
+white,black,grey hat
+architecture 
+zero knowledge about the tools and they hack called black hat hackers
+both white and black are grey hat hackers
+
+CIA tired
+CIA=confidentiality,integrity,availability
+confidentiality
+
+authentication - verify someone identity
+authorization or access control - getting permission
+
+authentication is consider by 3factors
+1.something you know by your own
+2.something you have like aadhar number,otp,pan card.
+3.something you are like biometric,physical characteristics(left-handed)
+if we are using any two factor in the above three it is called 2factor authentication
+
+authorization it means getting permission like installing software in lap we give permission
+
+intrgrity
+it means orginality
+
+conversion of clear text to cipher text is called encryption
+
+breach - loss of control
+event - observable occurence in a network
+bug - deviation from a actual recquirement
+incident - which affect the cia is called incident
+intuusion - security event called intrusion
+threat - 
+risk - threat + vulnerability
+TOE - target of evaluation or targeting the ip address
+
+IPV4
+192.168.1.0 to 192.168.1.255 ->256 ips are there
+192.168.1.1/24 - 32bit-decimal (0-9)
+11000000.10101000.0000001.00000001
+
+IPv6
+128bit-hexadecimal-(0-9 & A-F)
+
+MYSQL use - 
+local host work on port 80.
+TO hang onother pc by this following steps
+        1.Open notepad
+        2.write @echo off
+        3.andstart writing start clasi etc.... and saves the file in files and open then the system will hang
+windows works on 
+ 1.exe.file
+ 2.batt file
+in windows while using the ping(ip address who you attack )it will transfer 4 packets as default
+but in linux we need to determine the count ping(ip address who you attack)-c-4
+ HOW TO FIND IP ADDRESS OF SOMEONE
+  1.Go to cmd and write ping and paste the webside name and remove the last \ and www. or https like that 
+       eg:C:\Users\manim>ping lms.careertiq.com
+
+Network 
+  1.use the cross over wire to connect
+  2.straight though is used for connecting different devices
+  3.to connect 2 routers we choose the  serial cable
+ip is a temperary address
+mac address is a permanent address
+ PING is used to communicate
+HUB is a public transportation
+Switch is a private transportation
