@@ -1,0 +1,3 @@
+GO forward  use = is directory
+go backward use = cd..
+../ is use to move the comand backward
