@@ -1,3 +1,37 @@
 GO forward  use = is directory
 go backward use = cd..
 ../ is use to move the comand backward
+cat command is used to read the text file in powershell
+more filename command is used to read the file in windows
+mkdir make directory
+  mkdir is use to create directory in both linux and  window
+CP is used for copy the command
+MV is used to move the command
+RM is used to remove
+LS is used to list the files
+ HOW TO SHARE COMMAND IN CMD PROMPT
+1.Open cmd
+2.create ipconfig
+3.Copy your ipaddress and search in your browser
+          OR
+ TO TRANSFER FILE USING PYTHON CMD
+Type a command as python-n http.server.80
+                  python-n http.server 9999
+eth0 is also called ethernet 0
+
+VPN = Is used to encrypt the communication between user and client.It is used to protect the data
+encryption = clear text-> cipher text
+decryption = cipher text->clear text
+
+symmetric encrp= single key is enough to lock and unlock
+asymmetric encrp =public and private key  
+PROXY=
+
+WIRESHARK is a packet analyser tool
+
+ip.addr==163.70.138.35
+3-Way handshake
+ 1)
+2)
+3)
+TLS= Transport layer security
