@@ -35,3 +35,11 @@ ip.addr==163.70.138.35
 2)
 3)
 TLS= Transport layer security
+
+KALI USEFULL COMMAND
+sudo nmcli networking on
+sudo service networkmanager start
+
+
+
+cat/etc/apt/sources.list
