@@ -109,7 +109,32 @@ CD stands for
      cd.. means go backword
     ls.. means go forward
 
+    WEB APPLICATION
+    client Request -------->Server Response----->DB
+     HTTP Methods
+     Get
+     post
+     put
+     options
+     delete
+     RESPONSE CODE can start with
+1xx -Informational
+2xx -Ok
+3xx -Redirection
+4xx -Client error
+5xx -Server side error
+      TYPES OF ENVIRONMENT
+ 1.Production environment- it has a highly maintance and risk testing eg:live website/web app
+ 2.stage environment - Actual copy of production environment
+ 3.QA environment - test building(it is easy to testing)
+
+ CLIENT--------->Burp Proxy-------->server
+ CLIENT--------->Proxy1-------->Proxy2-------->Proxy3-------->Proxy4-------->Proxy5-------->Proxy6-------->server
+  Burpsuitr is works like a proxy
+
 
              ATTACKS
 All combination password called bruteforce attack
 list of passwoed compared together and then hack is called bruteforce attack
+
+
