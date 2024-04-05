@@ -39,7 +39,9 @@ TLS= Transport layer security
 KALI USEFULL COMMAND
 sudo nmcli networking on
 sudo service networkmanager start
-
-
-
+ 
 cat/etc/apt/sources.list
+sudo service apache2 start
+ LINUS Website path is ----> ls/var/www/html/
+windows default path for -----> c:\inetpub\wwwroot
+linux-------------->/var/www/html/ 
