@@ -51,3 +51,8 @@ linux-------------->/var/www/html/
 
  HOW TO INSTALL ANY APP IN KALI
  1.Sudo apt install (your application)
+
+
+
+
+cat /etc/passwd is used to show the path
