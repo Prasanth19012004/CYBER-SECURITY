@@ -26,7 +26,8 @@ decryption = cipher text->clear text
 symmetric encrp= single key is enough to lock and unlock
 asymmetric encrp =public and private key  
 PROXY=
-
+ HOW TO INSTALL ANY APP IN KALI
+ 1.Sudo apt install (your application)
 WIRESHARK is a packet analyser tool
 
 ip.addr==163.70.138.35
@@ -45,3 +46,8 @@ sudo service apache2 start
  LINUS Website path is ----> ls/var/www/html/
 windows default path for -----> c:\inetpub\wwwroot
 linux-------------->/var/www/html/ 
+
+
+
+ HOW TO INSTALL ANY APP IN KALI
+ 1.Sudo apt install (your application)
