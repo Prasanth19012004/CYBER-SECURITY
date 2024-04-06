@@ -1,0 +1,10 @@
+In peneration testing there are 5 phase
+ 1.)information gathering (like how many host,routers,ports,protols,tech used by web application ,cms(content management system)
+ 2.)sacnning
+ 3.)gaining access(to hack the system)
+ 4.)maintaining access(peristence)
+ 5.)clearing tracks
+     TPES OF PEN TESTING
+     1.Internal pen testing =white box testing a complete information is known
+     2.External pen tesing = they won't give any information they simply give tha way to test
+     
